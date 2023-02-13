@@ -1,0 +1,5 @@
+# Folders
+Outputs/
+.ipynb_checkpoints/
+.backups/
+scratch.gdb/
